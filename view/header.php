@@ -54,7 +54,7 @@ include_once("../model/usuarioModel.php");
                         </ul>
                     </li>
                 </ul>
-              <ul> Olá, <?php echo($_SESSION["nome"]);?> </ul>
+              
             </div>
         </div>
     </nav>
